@@ -1,1 +1,1 @@
-Photofy
+Photofy v2.0.43
