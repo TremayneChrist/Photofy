@@ -1,4 +1,4 @@
-﻿Copyright (c) 2011 Tremayne Christ, http://tremaynechrist.co.uk/
+﻿Copyright (c) 2012 Tremayne Christ, http://tremaynechrist.co.uk/
 
 MIT LICENSE
 
