@@ -1,0 +1,48 @@
+﻿html, body
+{
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	height: 100%;
+}
+
+h1, h2, h3
+{
+	font-size: 16px;
+	margin: 0 0 20px 0;
+}
+
+#photofy
+{
+	width: 506px;
+	height: 304px;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	margin: -152px 0 0 -253px;
+}
+
+#photofy a
+{
+	color: #1f90c5;
+}
+
+#photofy a.photofy_overlay_close
+{
+	font-size: 12px;
+}
+
+#photofy a.photofy_thumbnail
+{
+	border: 1px solid #eee;
+	display: block;
+	float: left;
+	text-decoration: none;
+	width: 100px;
+	height: 100px;
+	margin: 0 -1px -1px 0;
+}
+
+#photofy a img
+{
+	border: none;
+}

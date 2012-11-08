@@ -1,0 +1,22 @@
+﻿var images = [
+{ImageUrl: "Images/Thumbnails/1.jpg", LinkUrl: "Images/1.jpg", HTML: "<h2>Image 1</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/2.jpg", LinkUrl: "Images/2.jpg", HTML: "<h2>Image 2</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/3.jpg", LinkUrl: "Images/3.jpg", HTML: "<h2>Image 3</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/4.jpg", LinkUrl: "Images/4.jpg", HTML: "<h2>Image 4</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/5.jpg", LinkUrl: "Images/5.jpg", HTML: "<h2>Image 5</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/6.jpg", LinkUrl: "Images/6.jpg", HTML: "<h2>Image 6</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/7.jpg", LinkUrl: "Images/7.jpg", HTML: "<h2>Image 7</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/8.jpg", LinkUrl: "Images/8.jpg", HTML: "<h2>Image 8</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/9.jpg", LinkUrl: "Images/9.jpg", HTML: "<h2>Image 9</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/10.jpg", LinkUrl: "Images/10.jpg", HTML: "<h2>Image 10</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/11.jpg", LinkUrl: "Images/11.jpg", HTML: "<h2>Image 11</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/12.jpg", LinkUrl: "Images/12.jpg", HTML: "<h2>Image 12</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/13.jpg", LinkUrl: "Images/13.jpg", HTML: "<h2>Image 13</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/14.jpg", LinkUrl: "Images/14.jpg", HTML: "<h2>Image 14</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/15.jpg", LinkUrl: "Images/15.jpg", HTML: "<h2>Image 15</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/16.jpg", LinkUrl: "Images/16.jpg", HTML: "<h2>Image 16</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/17.jpg", LinkUrl: "Images/17.jpg", HTML: "<h2>Image 17</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/18.jpg", LinkUrl: "Images/18.jpg", HTML: "<h2>Image 18</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/19.jpg", LinkUrl: "Images/19.jpg", HTML: "<h2>Image 19</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" },
+{ImageUrl: "Images/Thumbnails/20.jpg", LinkUrl: "Images/20.jpg", HTML: "<h2>Image 20</h2>Get more help at <a href=\"http://tremaynechrist.co.uk\">http://tremaynechrist.co.uk</a>" }
+]

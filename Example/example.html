@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<title>Photofy Demo</title>
+<link rel="stylesheet" type="text/css" href="layout.css" />
+    <script src="jquery.min.js" type="text/javascript"></script>
+    <script src="jquery-photofy-2.0.43.min.js" type="text/javascript"></script>
+	<script src="images.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id="photofy"></div>
+<script type="text/javascript">
+$("#photofy").photofy({
+	imageSource: images,
+	maxImages: 15,
+    delay: 4000
+});
+</script>
+</body>
+
+</html>
